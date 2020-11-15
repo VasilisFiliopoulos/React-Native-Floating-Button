@@ -127,6 +127,8 @@ const styles = StyleSheet.create({
     shadowColor: 'red',
     shadowOpacity: 0.3,
     shadowOffset: {height: 10},
+    elevation: 7,
+    backgroundColor: 'red',
   },
   menu: {
     backgroundColor: '#F02A4B',
